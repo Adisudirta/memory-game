@@ -50,7 +50,7 @@ body {
   width: 100%;
 }
 
-.card:hover {
+.flip {
   transform: rotateY(180deg);
 }
 
